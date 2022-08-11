@@ -35,7 +35,6 @@
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=whynamed) ](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whynamed&theme=vue-dark)
