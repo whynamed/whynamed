@@ -8,7 +8,7 @@
 
 
 
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://git.poker/wzryyxlm/img/blob/main/R.19cxymxoyv7k.gif?raw=true"/></div>
 
 
 ![](https://raw.githubusercontent.com/whynamed/whynamed/main/assets/github-contribution-grid-snake.svg)
