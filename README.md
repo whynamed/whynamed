@@ -15,10 +15,7 @@
 
 
 
-
-
-
-# **正在学习: **
+# 正在学习: 
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -38,11 +35,11 @@
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
-​                                       [![trophy](https://github-profile-trophy.vercel.app/?username=whynamed) ](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=whynamed) ](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-​                                                    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whynamed)  ](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whynamed&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whynamed&layout=compact&theme=vue-dark)
 
 
 <div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
